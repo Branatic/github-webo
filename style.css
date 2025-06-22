@@ -65,6 +65,36 @@
     border-radius: 20%;
 }
 
+.skills {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 60px 60px 60px;
+    max-width: 1000px;
+    margin: auto;
+    flex-wrap: wrap;
+    background-color: #10141A;
+}
+
+.skills-text {
+    font-size: 24px;
+    color: White;
+    margin: 2px 23px 23px 23px;
+    text-align: center;
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px;
+    max-width: 1000px;
+    margin: auto;
+    flex-wrap: wrap;
+    background-color: #10141A;
+    color: white;
+}
+
 body {
     font-family: 'Inter', sans-serif;
     background-color: #0E0E0E;
